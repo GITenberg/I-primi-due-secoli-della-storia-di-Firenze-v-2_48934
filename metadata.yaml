@@ -1,10 +1,16 @@
 _repo: I-primi-due-secoli-della-storia-di-Firenze-v-2_48934
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48934-h/images/cover.jpg
 creator:
   author:
     agent_name: Villari, Pasquale
     gutenberg_agent_id: '43309'
     url: http://www.gutenberg.org/2009/agents/43309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48934#I-primi-due-secoli-della-storia-di-Firenze-v-2
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2015-05-11'
 gutenberg_type: Text
